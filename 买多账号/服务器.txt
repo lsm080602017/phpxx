@@ -1,0 +1,75 @@
+项目github地址
+git@github.com:del-xiong/www.fsdress.com.git
+
+//尺码替换地址
+https://api.fsstyle.com/?m=tool&a=sizeFormat
+
+//上传api
+http://chromein.applinzi.com/?a=p
+
+//网站后台密码
+amdin  password
+lFsdnXvIR4FuJDGf
+
+//网站监控地址
+https://uptimerobot.com/login?rt=https://uptimerobot.com/#779105364
+sdf23lkj2l4234@mail.bccto.me
+oTqFRMGm0mkjS
+
+
+107.22.39.166
+password:d7e38af5bf58910ed25e4ce86499efa5
+
+
+oa服务器
+（提权密码 pandaplot）
+18.208.183.248 oa主站
+
+18.210.28.71 oa副站
+
+
+备用 54.166.42.44
+
+公司内网 192.168.9.41
+外网 3.83.185.197
+
+
+U-Mail邮件群发平台：登录网址：http://www.bestedm.org  账号：cheapplusszie  密码：AZXDXcxsxe005792
+
+strip
+public:pk_live_obZrtmIxpbV5kaZZsNf7jRfN   
+
+secret:sk_live_KLjaBBnsaW3g7DqY4HpRyAgd 
+
+新服务器
+47.92.55.76
+root:rR35%&@1sw7454
+path /var/www/4NU/shop
+
+数据库
+mariadb
+密码:47.92.55.76
+root:rR35%&@1sw7454
+
+·
+client:sd32131#@
+
+
+34.201.33.152
+7rFk5Hy4WgUpw4cmw5l
+
+老站数据库
+34.204.192.87
+
+fsdress.comda1llcw9y.us-east-1.rds.amazonaws.com 
+ root  l102O3Z*5z6*.<1l0Z20O>
+
+支付
+https://connect.squareup.com/apps/
+xieying@usersbase.com    xz6203350
+
+这是个新支付通道，记录下来，等上线了添加试试
+
+oa配置
+sudo docker attach 52
+/usr/local/nginx/conf/vhost

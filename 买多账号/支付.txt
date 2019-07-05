@@ -1,0 +1,30 @@
+c舍得先生 （应）:
+API用户名
+xieying_api1.usersbase.com
+
+舍得先生 （应）:
+API密码
+53ZMGVANP7HLXYEA
+
+舍得先生 （应）:
+签名
+AczUU94BMMolZ9uHs3gDJVFQWmnrAzgOK76CLo.ReFnC4xfgQ-NGqmQ9
+
+账号
+xieying@usersbase.com    2Z1lI0O.*(2X3=9)
+
+信用卡
+5236497916657896
+
+02 23 436
+
+钱海
+https://accounts.oceanpayment.com/service/admin/login
+191286    xieying    xz123321...
+
+亚马逊
+“merchant_id”：“A1K9YAP2OGKAHD”，
+“access_key”：“AKIAIEIALGNJJLZZCQVQ”，
+“secret_key”：“J/HbXzKZI/RAS9CW+1TIBxClaarEvgAKYnGHkjh4”，
+“client_id”：“amzn1.application-OA 2-client.c3e363abb4b34bc59522c7361a94d2b3”，
+“client_secret”:“bc3439919be620aec32736ccc9bb4ea28e165dfd823315721a161df9b9b7cdbe”
